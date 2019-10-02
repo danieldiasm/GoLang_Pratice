@@ -1,0 +1,8 @@
+{
+    "files": [
+        "ffmpeg.exe",
+        "test.exe",
+        "birosquinha.avi"
+    ],
+    "targetPath":"D:/TestSite"
+}
