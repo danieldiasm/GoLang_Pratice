@@ -1,0 +1,8 @@
+{
+    "files": [
+        "persistOne.exe",
+        "AnotherFile.exe",
+        "ThisIsVideo.avi"
+    ],
+    "targetPath":"D:/TestSite"
+}
